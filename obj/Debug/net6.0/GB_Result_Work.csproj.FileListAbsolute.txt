@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/bin/Debug/net6.0/GB_Result_Work
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/bin/Debug/net6.0/GB_Result_Work.deps.json
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/bin/Debug/net6.0/GB_Result_Work.runtimeconfig.json
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/bin/Debug/net6.0/GB_Result_Work.dll
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/bin/Debug/net6.0/GB_Result_Work.pdb
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.dll
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/refint/GB_Result_Work.dll
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.pdb
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/GB_Result_Work.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_Result_Work/obj/Debug/net6.0/ref/GB_Result_Work.dll
