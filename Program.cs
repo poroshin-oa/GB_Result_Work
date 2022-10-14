@@ -1,6 +1,6 @@
 ﻿// Инициализация и заполнение массива строк
 string[] input_array = new string[5];
-input_array[0] = "heo";
+input_array[0] = "hello";
 input_array[1] = "ld";
 input_array[2] = "abc";
 input_array[3] = "=)";
@@ -32,5 +32,5 @@ string[] GetNewArray(string[] in_array){
 }
 
 
-string[] a = GetNewArray(input_array);
-PrintArray(a);
+string[] my_array = GetNewArray(input_array);
+PrintArray(my_array);
